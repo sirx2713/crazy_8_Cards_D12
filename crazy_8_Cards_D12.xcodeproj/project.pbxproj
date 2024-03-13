@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		2EA7D8402B9660D400DD3293 /* crazy_8_Cards_D12App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EA7D83F2B9660D400DD3293 /* crazy_8_Cards_D12App.swift */; };
-		2EA7D8422B9660D400DD3293 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EA7D8412B9660D400DD3293 /* ContentView.swift */; };
+		2EA7D8422B9660D400DD3293 /* GameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EA7D8412B9660D400DD3293 /* GameView.swift */; };
 		2EA7D8442B9660D500DD3293 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2EA7D8432B9660D500DD3293 /* Assets.xcassets */; };
 		2EA7D8472B9660D500DD3293 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2EA7D8462B9660D500DD3293 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
@@ -16,7 +16,7 @@
 /* Begin PBXFileReference section */
 		2EA7D83C2B9660D400DD3293 /* crazy_8_Cards_D12.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = crazy_8_Cards_D12.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2EA7D83F2B9660D400DD3293 /* crazy_8_Cards_D12App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = crazy_8_Cards_D12App.swift; sourceTree = "<group>"; };
-		2EA7D8412B9660D400DD3293 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		2EA7D8412B9660D400DD3293 /* GameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameView.swift; sourceTree = "<group>"; };
 		2EA7D8432B9660D500DD3293 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2EA7D8462B9660D500DD3293 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -52,7 +52,7 @@
 			isa = PBXGroup;
 			children = (
 				2EA7D83F2B9660D400DD3293 /* crazy_8_Cards_D12App.swift */,
-				2EA7D8412B9660D400DD3293 /* ContentView.swift */,
+				2EA7D8412B9660D400DD3293 /* GameView.swift */,
 				2EA7D8432B9660D500DD3293 /* Assets.xcassets */,
 				2EA7D8452B9660D500DD3293 /* Preview Content */,
 			);
@@ -137,7 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2EA7D8422B9660D400DD3293 /* ContentView.swift in Sources */,
+				2EA7D8422B9660D400DD3293 /* GameView.swift in Sources */,
 				2EA7D8402B9660D400DD3293 /* crazy_8_Cards_D12App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
